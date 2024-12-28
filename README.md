@@ -31,7 +31,7 @@ Welcome to the RISC-V 5-Stage Pipelined Processor project, a basic implementatio
 
 ---
 
-## 📋 How to Use
+## How to Use
 
 ### Setup
 1. Clone the repository:
