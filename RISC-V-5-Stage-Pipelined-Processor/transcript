@@ -1,0 +1,57 @@
+# vsim -c tb_processor -voptargs="+acc" -do "run -all" 
+# Start time: 02:07:52 on Dec 26,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# //  Questa Sim-64
+# //  Version 10.6c win64 Jul 26 2017
+# //
+# //  Copyright 1991-2017 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.tb_processor(fast)
+# Loading work.processor(fast)
+# Loading work.pc(fast)
+# Loading work.pc_buffer_fetch(fast)
+# Loading work.pc_buffer_decode(fast)
+# Loading work.pc_buffer_execute(fast)
+# Loading work.pc_buffer_mem(fast)
+# Loading work.inst_mem(fast)
+# Loading work.ir_buffer_fetch(fast)
+# Loading work.ir_buffer_decode(fast)
+# Loading work.ir_buffer_execute(fast)
+# Loading work.ir_buffer_mem(fast)
+# Loading work.inst_dec(fast)
+# Loading work.reg_file(fast)
+# Loading work.rs1_buffer(fast)
+# Loading work.rs2_buffer(fast)
+# Loading work.csr(fast)
+# Loading work.controller(fast)
+# Loading work.controller_buffer_decode(fast)
+# Loading work.controller_buffer_execute(fast)
+# Loading work.controller_buffer_mem(fast)
+# Loading work.alu_mux(fast)
+# Loading work.opr_A_mux(fast)
+# Loading work.alu(fast)
+# Loading work.alu_buffer_execute(fast)
+# Loading work.alu_buffer_mem(fast)
+# Loading work.imm_gen(fast)
+# Loading work.imm_buffer(fast)
+# Loading work.data_mem(fast)
+# Loading work.branch_cond_gen(fast)
+# Loading work.wd_buffer(fast)
+# Loading work.rd_buffer(fast)
+# Loading work.writeback_mux(fast)
+# Loading work.pc_mux(fast)
+# run -all
+# ** Note: $finish    : ./tb_processor.sv(28)
+#    Time: 5010 ns  Iteration: 0  Instance: /tb_processor
+# End time: 02:07:53 on Dec 26,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
